@@ -1,4 +1,4 @@
-## ´´ Bateu a curiosidade, né? Sejá bem-vindos! ´´
+##  Bateu a curiosidade, né? Sejá bem-vindos! 
 
 <div align="center">
   <a href="https://github.com/Arthur-All">
